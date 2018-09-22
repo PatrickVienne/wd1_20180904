@@ -1,0 +1,13 @@
+.centered {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.image {
+    width: 400px;
+}
+
+.nametext {
+    color: red;
+    text-align: center;
+}
